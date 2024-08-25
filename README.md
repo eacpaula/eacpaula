@@ -257,6 +257,10 @@
 
 <img src="https://raw.githubusercontent.com/eacpaula/eacpaula/output/snake.svg" alt="Snake animation" />
 
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ###
 
 <div align="left">
