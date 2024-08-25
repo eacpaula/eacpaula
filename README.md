@@ -38,7 +38,29 @@
 
 ###
 
-<p align="left">As a Software Engineer with over a decade of experience, I've had the opportunity to work on a wide range of projects, from developing custom software solutions to executing large-scale digital transformations. My background spans multiple industries, including Information Technology, Computer Software, and even the Food Industry. Notably, my work at Integritas involved collaborating with Acuity Brands, a major US-based tech company, where I played a key role in developing robust software solutions for their digital transformation initiatives.<br><br>Technologies<br>- Node.js / .Net Core (C#) / Python / PHP<br>- Express.JS / GraphQL / React.JS / Nest.JS / Next.JS / Angular / Fastify / Restify / .Net MVC / Django / Flask / CodeIgniter / Laravel / Slim Framework<br>- REST / TDD / DDD / SOLID / Design Paterns<br>- AWS / Azure / GCP<br>- Docker / K8S<br>- Postgres / SQL Server / MySQL / Oracle / MongoDB <br>- Kafka / Redis<br>- Tests (unitary / integration / load / E2E / Contract)<br>- CI/CD (Azure DevOps / GitLab / GitHub)<br>- Bit.Dev Harmony, NPM, PNPM, Webpack<br>- MUI / Bootstrap / TailwindCSS<br>- Git / Git-Flow<br>- Scrum<br><br>I am a team-oriented professional who excels in collaborative environments. My easygoing and resilient nature helps me build strong relationships with colleagues and stakeholders, facilitating effective teamwork and communication. I am passionate about deeply engaging in product development, especially when it involves leveraging emerging technologies to rebuild or enhance systems. My extensive experience in reconstruction projects has sharpened my ability to adapt and thrive in fast-paced, evolving environments.</p>
+<p align="left">
+    As a Software Engineer with over a decade of experience, I've had the opportunity to work on a wide range of projects, from developing custom software solutions to executing large-scale digital transformations. My background spans
+    multiple industries, including Information Technology, Computer Software, and even the Food Industry.<br />
+    <br />
+    Technologies<br />
+    - Node.js / .Net Core (C#) / Python / PHP<br />
+    - Express.JS / GraphQL / React.JS / Nest.JS / Next.JS / Angular / Fastify / Restify / .Net MVC / Django / Flask / CodeIgniter / Laravel / Slim Framework<br />
+    - REST / TDD / DDD / SOLID / Design Paterns<br />
+    - AWS / Azure / GCP<br />
+    - Docker / K8S<br />
+    - Postgres / SQL Server / MySQL / Oracle / MongoDB <br />
+    - Kafka / Redis<br />
+    - Tests (unitary / integration / load / E2E / Contract)<br />
+    - CI/CD (Azure DevOps / GitLab / GitHub)<br />
+    - Bit.Dev Harmony, NPM, PNPM, Webpack<br />
+    - MUI / Bootstrap / TailwindCSS<br />
+    - Git / Git-Flow<br />
+    - Scrum<br />
+    <br />
+    I am a team-oriented professional who excels in collaborative environments. My easygoing and resilient nature helps me build strong relationships with colleagues and stakeholders, facilitating effective teamwork and communication. I am
+    passionate about deeply engaging in product development, especially when it involves leveraging emerging technologies to rebuild or enhance systems. My extensive experience in reconstruction projects has sharpened my ability to adapt
+    and thrive in fast-paced, evolving environments.
+</p>
 
 ###
 
