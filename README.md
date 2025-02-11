@@ -294,7 +294,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          █████████████████████████   100.00 %
+HTML         24 mins         █████████████░░░░░░░░░░░░   51.89 %
+TypeScript   13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+SCSS         8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
 ```
 
 <!--END_SECTION:waka-->
