@@ -294,9 +294,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   3 hrs 31 mins   ███████████████░░░░░░░░░░   59.76 %
-SCSS   2 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.79 %
-JSON   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
