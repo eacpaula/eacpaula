@@ -294,9 +294,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      7 mins          ██████████████▒░░░░░░░░░░   57.28 %
-HTML            4 mins          ████████░░░░░░░░░░░░░░░░░   32.49 %
-Jest Snapshot   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+HTML            42 mins         ██████████████████▓░░░░░░   75.19 %
+TypeScript      12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+Jest Snapshot   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
