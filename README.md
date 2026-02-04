@@ -294,8 +294,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        10 mins         █████████████████████████   99.59 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
