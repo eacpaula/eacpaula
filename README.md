@@ -294,10 +294,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other           6 mins          █████████████░░░░░░░░░░░░   51.58 %
-TypeScript      5 mins          ███████████▓░░░░░░░░░░░░░   47.11 %
-Python          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Jest Snapshot   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
