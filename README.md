@@ -294,11 +294,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     39 mins               ████████████████░░░░░░░░░   64.00 %
-JSON       6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Markdown   6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Text       4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-XML        2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
