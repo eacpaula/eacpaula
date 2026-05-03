@@ -294,8 +294,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text   21 mins               █████████████████████▓░░░   86.90 %
-YAML   3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
