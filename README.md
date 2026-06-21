@@ -34,31 +34,35 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
-###
+I’m a **Senior Full Stack Software Engineer from Brazil** with around **12 years of experience** building, modernizing, and maintaining web applications, APIs, and enterprise platforms.
 
-<p align="left">
-    I’m a Senior Full Stack Software Engineer from Brazil with around 12 years of experience building, modernizing, and maintaining web applications, APIs, and enterprise platforms.
+Most of my career has been focused on **JavaScript/TypeScript**, especially **Node.js**, **React**, **Angular**, and **Next.js**. I also have experience with **.NET/C#**, **Python**, **PHP**, **SQL databases**, **AWS**, **Azure**, **Docker**, **CI/CD**, **REST APIs**, **GraphQL**, and cloud-based systems.
 
-Most of my career has been focused on JavaScript/TypeScript, especially Node.js, React, Angular, and Next.js, with additional experience in .NET/C#, Python, PHP, SQL databases, AWS, Azure, Docker, CI/CD, REST APIs, GraphQL, and cloud-based systems.
+Over the last few years, I have worked with international teams in outsourcing projects for companies in the **US and Canada**, including **Acuity Brands** and **MDFCommerce**. My work has involved frontend and backend development, technical modernization, component libraries, architecture improvements, API documentation, testing strategy, CI/CD pipelines, and security tooling.
 
-Over the last few years, I worked with international teams in outsourcing projects for companies in the US and Canada, including Acuity Brands and MDFCommerce. My work has involved frontend and backend development, technical modernization, component libraries, architecture improvements, API documentation, testing strategy, CI/CD pipelines, and security tooling.
+#### Work I’m proud of
 
-Some examples of work I’m proud of include:
-● Upgrading multiple large Angular applications from Angular 8 to Angular 18, reducing a modernization effort originally expected to take more than a year into around 8 months.
-● Helping build and evolve reusable component libraries, including a React component library with 65+ components and later an Angular component library used across multiple teams.
-● Maintaining strong quality standards, including high automated test coverage, API documentation, linters, formatters, Git hooks, and CI/CD improvements.
-● Improving backend and database performance through SQL optimization, indexing, API design, and architecture improvements.
-● Working with legacy systems and modernization projects where understanding the existing business context was just as important as writing new code.
+* Upgraded multiple large Angular applications from **Angular 8 to Angular 18**, reducing a modernization effort originally expected to take more than a year into around **8 months**.
+* Helped build and evolve reusable component libraries, including a **React component library with 65+ components** and later an **Angular component library** used across multiple teams.
+* Maintained strong quality standards through automated test coverage, API documentation, linters, formatters, Git hooks, and CI/CD improvements.
+* Improved backend and database performance through SQL optimization, indexing, API design, and architecture improvements.
+* Worked with legacy systems and modernization projects where understanding the existing business context was just as important as writing new code.
 
-I consider myself a pragmatic full stack engineer: I enjoy frontend work, backend architecture, product thinking, and the engineering discipline required to make systems easier to maintain over time. I’m especially interested in roles where I can contribute to long-term product development, scalable APIs, modern frontend applications, cloud-based systems, and AI-assisted engineering workflows.
+#### How I work
 
-I have professional experience working in English with distributed teams and I’m currently open to remote Senior Full Stack, Backend, Frontend, or Software Engineer opportunities with international companies.
+I consider myself a **pragmatic full stack engineer**. I enjoy frontend work, backend architecture, product thinking, and the engineering discipline required to make systems easier to maintain over time.
+
+I’m especially interested in roles where I can contribute to **long-term product development**, **scalable APIs**, **modern frontend applications**, **cloud-based systems**, and **AI-assisted engineering workflows**.
+
+#### Open to opportunities
+
+I have professional experience working in English with distributed teams, and I’m currently open to remote **Senior Full Stack**, **Backend**, **Frontend**, or **Software Engineer** opportunities with international companies.
 
 For recruiters and hiring teams who want to explore my background in more detail, I also created a custom GPT trained on my professional history, technical experience, and career context:
-https://chatgpt.com/g/g-69e17f8cc56c81919c0ba5db3439c56a-evandro-s-software-engineer-history
-</p>
+
+[Evandro’s Software Engineer History GPT](https://chatgpt.com/g/g-69e17f8cc56c81919c0ba5db3439c56a-evandro-s-software-engineer-history)
 
 ###
 
