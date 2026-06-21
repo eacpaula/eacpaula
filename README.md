@@ -39,27 +39,25 @@
 ###
 
 <p align="left">
-    As a Software Engineer with over a decade of experience, I've had the opportunity to work on a wide range of projects, from developing custom software solutions to executing large-scale digital transformations. My background spans
-    multiple industries, including Information Technology, Computer Software, and even the Food Industry.<br />
-    <br />
-    Technologies<br />
-    - Node.js / .Net Core (C#) / Python / PHP<br />
-    - Express.JS / GraphQL / React.JS / Nest.JS / Next.JS / Angular / Fastify / Restify / .Net MVC / Django / Flask / CodeIgniter / Laravel / Slim Framework<br />
-    - REST / TDD / DDD / SOLID / Design Paterns<br />
-    - AWS / Azure / GCP<br />
-    - Docker / K8S<br />
-    - Postgres / SQL Server / MySQL / Oracle / MongoDB <br />
-    - Kafka / Redis<br />
-    - Tests (unitary / integration / load / E2E / Contract)<br />
-    - CI/CD (Azure DevOps / GitLab / GitHub)<br />
-    - Bit.Dev Harmony, NPM, PNPM, Webpack<br />
-    - MUI / Bootstrap / TailwindCSS<br />
-    - Git / Git-Flow<br />
-    - Scrum<br />
-    <br />
-    I am a team-oriented professional who excels in collaborative environments. My easygoing and resilient nature helps me build strong relationships with colleagues and stakeholders, facilitating effective teamwork and communication. I am
-    passionate about deeply engaging in product development, especially when it involves leveraging emerging technologies to rebuild or enhance systems. My extensive experience in reconstruction projects has sharpened my ability to adapt
-    and thrive in fast-paced, evolving environments.
+    I’m a Senior Full Stack Software Engineer from Brazil with around 12 years of experience building, modernizing, and maintaining web applications, APIs, and enterprise platforms.
+
+Most of my career has been focused on JavaScript/TypeScript, especially Node.js, React, Angular, and Next.js, with additional experience in .NET/C#, Python, PHP, SQL databases, AWS, Azure, Docker, CI/CD, REST APIs, GraphQL, and cloud-based systems.
+
+Over the last few years, I worked with international teams in outsourcing projects for companies in the US and Canada, including Acuity Brands and MDFCommerce. My work has involved frontend and backend development, technical modernization, component libraries, architecture improvements, API documentation, testing strategy, CI/CD pipelines, and security tooling.
+
+Some examples of work I’m proud of include:
+● Upgrading multiple large Angular applications from Angular 8 to Angular 18, reducing a modernization effort originally expected to take more than a year into around 8 months.
+● Helping build and evolve reusable component libraries, including a React component library with 65+ components and later an Angular component library used across multiple teams.
+● Maintaining strong quality standards, including high automated test coverage, API documentation, linters, formatters, Git hooks, and CI/CD improvements.
+● Improving backend and database performance through SQL optimization, indexing, API design, and architecture improvements.
+● Working with legacy systems and modernization projects where understanding the existing business context was just as important as writing new code.
+
+I consider myself a pragmatic full stack engineer: I enjoy frontend work, backend architecture, product thinking, and the engineering discipline required to make systems easier to maintain over time. I’m especially interested in roles where I can contribute to long-term product development, scalable APIs, modern frontend applications, cloud-based systems, and AI-assisted engineering workflows.
+
+I have professional experience working in English with distributed teams and I’m currently open to remote Senior Full Stack, Backend, Frontend, or Software Engineer opportunities with international companies.
+
+For recruiters and hiring teams who want to explore my background in more detail, I also created a custom GPT trained on my professional history, technical experience, and career context:
+https://chatgpt.com/g/g-69e17f8cc56c81919c0ba5db3439c56a-evandro-s-software-engineer-history
 </p>
 
 ###
