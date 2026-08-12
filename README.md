@@ -296,11 +296,11 @@ For recruiters and hiring teams who want to explore my background in more detail
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 hrs 32 mins         ████████████▓░░░░░░░░░░░░   51.28 %
-Python       2 hrs 31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-Other        1 hr 56 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-YAML         59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-XML          38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Markdown     7 hrs                 ███████████▒░░░░░░░░░░░░░   44.93 %
+Python       3 hrs 42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 %
+Other        1 hr 51 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+YAML         1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+XML          38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
