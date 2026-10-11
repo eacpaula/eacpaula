@@ -296,11 +296,11 @@ For recruiters and hiring teams who want to explore my background in more detail
 <!--START_SECTION:waka-->
 
 ```txt
-Other        15 hrs 2 mins         ████████████░░░░░░░░░░░░░   47.98 %
-Markdown     11 hrs 40 mins        █████████▒░░░░░░░░░░░░░░░   37.24 %
-TypeScript   2 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Python       54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Text         27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other        15 hrs 27 mins        ████████████░░░░░░░░░░░░░   48.03 %
+Markdown     11 hrs 33 mins        █████████░░░░░░░░░░░░░░░░   35.89 %
+TypeScript   2 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Python       1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Text         27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
